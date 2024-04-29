@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.bg-about-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'roboto';
+  color: #555555;
+  padding-top: 10vh;
+}
+
+img {
+  height: 60vh;
+  width: 30vw;
+}
